@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 /**
- * http://localhost:8080/TestServer/testcache
+ * http://localhost:8080/OkHttpServer/testcache
  */
 @WebServlet("/testcache")
 public class TestCacheServlet extends HttpServlet {

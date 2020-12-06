@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * http://localhost:8080/TestServer/login?name=huannan&pwd=123456
+ * http://localhost:8080/OkHttpServer/login?name=huannan&pwd=123456
  */
 @WebServlet("/login")
 public class LoginServlet extends BaseJsonServlet {

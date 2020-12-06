@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * http://localhost:8080/TestServer/comment
+ * http://localhost:8080/OkHttpServer/comment
  */
 @WebServlet("/comment")
 public class CommentServlet extends BaseJsonServlet {
